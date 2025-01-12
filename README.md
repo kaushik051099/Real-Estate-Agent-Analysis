@@ -1,16 +1,8 @@
-# ALY 6980 Capstone Project
-
 ## Real Estate Agent Review Analysis
-
-- **Professor:** Valerie Atherley  
-- **Group:** 03  
-- **Student:** Mimansha Kaushik  
-- **Submission Date:** 12/04/2024  
-- **Updated:** 01/12/2025  
 
 ---
 
-## 📌 The Problem: Mismatched Expectations
+## The Problem: Mismatched Expectations
 
 ### Traditional Approach
 Traditional agent matching methods rely heavily on personal networks and referrals, often failing to address individual preferences and specific agent expertise.
@@ -20,7 +12,7 @@ This lack of personalization leads to mismatched expectations and less-than-idea
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 
 ### Data Sources
 - **Agent Data**
@@ -45,7 +37,7 @@ This lack of personalization leads to mismatched expectations and less-than-idea
 
 ---
 
-## 🧹 Data Processing
+## Data Processing
 
 1. **Data Cleaning:**
    - Imputed missing values (e.g., ratings, property prices) using the median.
@@ -65,7 +57,7 @@ This lack of personalization leads to mismatched expectations and less-than-idea
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Key insights include:
 - Strong correlation between localized expertise and customer satisfaction.
@@ -74,7 +66,7 @@ Key insights include:
 
 ---
 
-## 🤖 Model Building
+## Model Building
 
 ### Goal
 To recommend agents based on customer preferences and expertise.
@@ -96,7 +88,7 @@ To recommend agents based on customer preferences and expertise.
 
 ---
 
-## 🔍 Recommender System Development
+## Recommender System Development
 
 ### Steps:
 1. **Data Integration:** Merged agent and property datasets based on agent names.
@@ -106,7 +98,7 @@ To recommend agents based on customer preferences and expertise.
 
 ---
 
-## ⚙️ Challenges and Solutions
+## Challenges and Solutions
 
 ### Data Integration
 - Overcame challenges using robust alignment techniques.
@@ -116,7 +108,7 @@ To recommend agents based on customer preferences and expertise.
 
 ---
 
-## 🎯 Key Takeaways
+## Key Takeaways
 
 This project delivered:
 - A powerful, data-driven solution to match buyers with suitable agents.
@@ -125,7 +117,7 @@ This project delivered:
 
 ---
 
-## 📚 References
+## References
 
 1. Yadav, D. (2019). *Categorical Encoding Using Label-Encoding and One-Hot-Encoder.* Medium, Towards Data Science.  
 2. Smith, J. A., & Doe, R. L. (2023). *Machine learning applications in real estate recommendations.* Journal of Real Estate Analytics, 15(3), 213-228.  
